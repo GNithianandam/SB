@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tx4fzAupdq7yV5+VkZ895gyUL/xg3V+S4EjyOhOBijbazvfDZ2xRvwuMnt8czBkAbNQKo7NICa8UfHN28x0Rhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gokulan.Nithianandam\\source\\repos\\SB\\SB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gokulan.Nithianandam\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Gokulan.Nithianandam\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Gokulan.Nithianandam\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Gokulan.Nithianandam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Gokulan.Nithianandam\source\repos\SB\bin\Debug\net7.0-windows7.0\SB.exe
+C:\Users\Gokulan.Nithianandam\source\repos\SB\bin\Debug\net7.0-windows7.0\SB.deps.json
+C:\Users\Gokulan.Nithianandam\source\repos\SB\bin\Debug\net7.0-windows7.0\SB.runtimeconfig.json
+C:\Users\Gokulan.Nithianandam\source\repos\SB\bin\Debug\net7.0-windows7.0\SB.dll
+C:\Users\Gokulan.Nithianandam\source\repos\SB\bin\Debug\net7.0-windows7.0\SB.pdb
+C:\Users\Gokulan.Nithianandam\source\repos\SB\obj\Debug\net7.0-windows7.0\SB.ControlUI.resources
+C:\Users\Gokulan.Nithianandam\source\repos\SB\obj\Debug\net7.0-windows7.0\SB.UI.resources
+C:\Users\Gokulan.Nithianandam\source\repos\SB\obj\Debug\net7.0-windows7.0\SB.csproj.GenerateResource.cache
+C:\Users\Gokulan.Nithianandam\source\repos\SB\obj\Debug\net7.0-windows7.0\SB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokulan.Nithianandam\source\repos\SB\obj\Debug\net7.0-windows7.0\SB.AssemblyInfoInputs.cache
+C:\Users\Gokulan.Nithianandam\source\repos\SB\obj\Debug\net7.0-windows7.0\SB.AssemblyInfo.cs
+C:\Users\Gokulan.Nithianandam\source\repos\SB\obj\Debug\net7.0-windows7.0\SB.csproj.CoreCompileInputs.cache
+C:\Users\Gokulan.Nithianandam\source\repos\SB\obj\Debug\net7.0-windows7.0\SB.dll
+C:\Users\Gokulan.Nithianandam\source\repos\SB\obj\Debug\net7.0-windows7.0\refint\SB.dll
+C:\Users\Gokulan.Nithianandam\source\repos\SB\obj\Debug\net7.0-windows7.0\SB.pdb
+C:\Users\Gokulan.Nithianandam\source\repos\SB\obj\Debug\net7.0-windows7.0\SB.genruntimeconfig.cache
+C:\Users\Gokulan.Nithianandam\source\repos\SB\obj\Debug\net7.0-windows7.0\ref\SB.dll
